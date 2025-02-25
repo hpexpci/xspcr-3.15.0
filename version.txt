@@ -1,0 +1,5 @@
+[Version]
+XSPC:    v3.15.0
+xspcc:   3.15.0
+Git SHA: b14a75cfadda450cdecd5a70fbd2b6db3b87dfa3
+Golang:  1.23.1

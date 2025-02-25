@@ -1,0 +1,8 @@
+apiVersion: csi.hpe.com/v1
+kind: XSPC
+metadata:
+  name: xspc
+  namespace: kube-system
+spec:
+  imagePullSecrets:
+    - regcred-redhat-com
